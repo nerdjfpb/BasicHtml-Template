@@ -2,7 +2,7 @@
 
 Code Tree {Basic}
 
-- index
+index
 -- css
 --- normalize
 --- styles
