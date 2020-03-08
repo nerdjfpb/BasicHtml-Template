@@ -3,8 +3,8 @@
 Code Tree {Basic}
 
 - index
-  -- css
-  --- normalize
-  --- styles
-  --js
-  --- main
+-- css
+--- normalize
+--- styles
+--js
+--- main
